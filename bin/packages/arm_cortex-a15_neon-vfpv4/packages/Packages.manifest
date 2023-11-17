@@ -1,0 +1,622 @@
+Package: cgi-io
+Version: 2022-08-10-901b0f04-21
+Depends: libc, libubox20230523, libubus20230605
+Source: feeds/packages/net/cgi-io
+SourceName: cgi-io
+License: GPL-2.0-or-later
+Section: net
+SourceDateEpoch: 1660168429
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 8548
+Filename: cgi-io_2022-08-10-901b0f04-21_arm_cortex-a15_neon-vfpv4.ipk
+Size: 9289
+SHA256sum: 45c2096d75ebb97bffab2a9dff67b315a8f1b56b02bedf8bf4aebe9bf57f6807
+Description:  This package contains an cgi utility that is useful for up/downloading files
+
+Package: collectd-mod-cpu
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-cpu
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 4076
+Filename: collectd-mod-cpu_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 4842
+SHA256sum: f3328dd7b37cdd74e2d9d8f72726a296805574eb9d28dac8b748db2f8c6abeb5
+Description:  CPU input plugin
+
+Package: collectd-mod-cpufreq
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-cpufreq
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 2846
+Filename: collectd-mod-cpufreq_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 3607
+SHA256sum: 6eceb2de4dbb1918eb90f67dc86f22113a7b1781c0702beab8208fa127a7e252
+Description:  CPU Freq input plugin
+
+Package: collectd-mod-interface
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-interface
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 3425
+Filename: collectd-mod-interface_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 4199
+SHA256sum: fa53c3a00d88754ec4ef90e07f91e62557b8527b7c3c65a28edfb2272e87d8ba
+Description:  network interfaces input plugin
+
+Package: collectd-mod-iwinfo
+Version: 5.12.0-49
+Depends: libc, collectd, libiwinfo20230701
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-iwinfo
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 3518
+Filename: collectd-mod-iwinfo_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 4297
+SHA256sum: 6b763adfd59c8e5980c75dcfbd66b44693019db9818a9761e9e98a1ea039491b
+Description:  libiwinfo wireless statistics plugin
+
+Package: collectd-mod-load
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-load
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 1896
+Filename: collectd-mod-load_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 2656
+SHA256sum: 8116048ccaf27b0dabbc487741acd8b23980de8db7a28cfab228de48c07e5152
+Description:  system load input plugin
+
+Package: collectd-mod-memory
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-memory
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 2715
+Filename: collectd-mod-memory_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 3485
+SHA256sum: 26899375ddce4efcc6626c736a7cb6d7fddfccce1fc1837a41d96f0297f4fe1f
+Description:  physical memory usage input plugin
+
+Package: collectd-mod-network
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-network
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 14793
+Filename: collectd-mod-network_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 15577
+SHA256sum: f1ab9b6833c1ee9563cf2de6549b8224557eb676ab91e07b911e65f6430af37e
+Description:  network input/output plugin
+
+Package: collectd-mod-rrdtool
+Version: 5.12.0-49
+Depends: libc, collectd, librrd1
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-rrdtool
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 11450
+Filename: collectd-mod-rrdtool_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 12169
+SHA256sum: 9ba6505571f187be3134ef343eb5822fd804fca88d17e190f38d5367b4c8dd01
+Description:  RRDtool output plugin
+
+Package: collectd-mod-thermal
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-thermal
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 3907
+Filename: collectd-mod-thermal_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 4677
+SHA256sum: 0bdb5a27a3121ab97f47fb0871ada72be3b8ffe3c7d006138470dfcdaab3ceb7
+Description:  system temperatures input plugin
+
+Package: collectd-mod-wireless
+Version: 5.12.0-49
+Depends: libc, collectd
+Source: feeds/packages/utils/collectd
+SourceName: collectd-mod-wireless
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 2292
+Filename: collectd-mod-wireless_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 3042
+SHA256sum: ce5493eeac591c4f03c7607d9ddb527afd1258e6bbf9549b3066e52f6b3da74d
+Description:  wireless status input plugin
+
+Package: collectd
+Version: 5.12.0-49
+Depends: libc, libpthread, zlib, libltdl7, jshn
+Source: feeds/packages/utils/collectd
+SourceName: collectd
+Section: utils
+SourceDateEpoch: 1695065021
+CPE-ID: cpe:/a:collectd:collectd
+Maintainer: Jo-Philipp Wich <jo@mein.io>, Hannu Nyman <hannu.nyman@iki.fi>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 88237
+Filename: collectd_5.12.0-49_arm_cortex-a15_neon-vfpv4.ipk
+Size: 89146
+SHA256sum: 0cb3aaef139d3985d38f0b013e391df1bb4a9c57550ff48916cda17d65f6cafa
+Description:  collectd is a small daemon which collects system information periodically
+ and provides mechanismns to store the values in a variety of ways.
+
+Package: curl
+Version: 8.4.0-2
+Depends: libc, libcurl4
+Source: feeds/packages/net/curl
+SourceName: curl
+License: MIT
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1698331027
+CPE-ID: cpe:/a:haxx:libcurl
+Maintainer: Stan Grishin <stangri@melmac.ca>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 63697
+Filename: curl_8.4.0-2_arm_cortex-a15_neon-vfpv4.ipk
+Size: 64453
+SHA256sum: ae8f5391f840e846c06ff237aeed19477cfcba96aa006e650e0d7589bd2edc8b
+Description:  A client-side URL transfer utility
+
+Package: ddns-scripts-services
+Version: 2.8.2-40
+Depends: libc
+Provides: ddns-scripts_service
+Source: feeds/packages/net/ddns-scripts
+SourceName: ddns-scripts-services
+License: GPL-2.0
+Section: net
+SourceDateEpoch: 1697615201
+Architecture: all
+Installed-Size: 3803
+Filename: ddns-scripts-services_2.8.2-40_all.ipk
+Size: 4427
+SHA256sum: 0c7fcfcb358098b42562140760cc935c673b8ae5b9ffb93e60aa70c324222397
+Description:  Dynamic DNS Client definitions for supported services
+
+Package: ddns-scripts
+Version: 2.8.2-40
+Depends: libc, ddns-scripts-services
+Source: feeds/packages/net/ddns-scripts
+SourceName: ddns-scripts
+License: GPL-2.0
+Section: net
+SourceDateEpoch: 1697615201
+Architecture: all
+Installed-Size: 23886
+Filename: ddns-scripts_2.8.2-40_all.ipk
+Size: 24901
+SHA256sum: 660c4f2d55add4170620b26497c6a2901258ebb9c72a4e36c106413914624234
+Description:  Dynamic DNS Client scripts (with IPv6 support)
+ A highly configurable set of scripts for doing dynamic dns updates.
+ - IPv6 support
+ - DNS server support
+ - Glue Record support (require BIND host or KNOT host)
+ - DNS requests via TCP
+ - Proxy server support
+ - log file support
+ - support to run once
+ Version: 2.8.2-40
+ Info   : https://openwrt.org/docs/guide-user/services/ddns/client
+
+Package: htop
+Version: 3.2.2-1
+Depends: libc, libncurses6
+Source: feeds/packages/admin/htop
+SourceName: htop
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: admin
+SourceDateEpoch: 1675631397
+CPE-ID: cpe:/a:htop:htop
+Maintainer: Etienne CHAMPETIER <champetier.etienne@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 95663
+Filename: htop_3.2.2-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 96372
+SHA256sum: b6378aa1753a6515fc7d6c2556e5042f8fb24effae59b74546dbe4c730c03562
+Description:  Htop is an ncursed-based process viewer similar to top, but
+ it allows to scroll the list vertically and horizontally to
+ see all processes and their full command lines.
+
+Package: igmpproxy
+Version: 0.4-1
+Depends: libc
+Source: feeds/packages/net/igmpproxy
+SourceName: igmpproxy
+License: GPL-2.0+
+Section: net
+SourceDateEpoch: 1671252631
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 17232
+Filename: igmpproxy_0.4-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 18066
+SHA256sum: 44558b8aebe463cd60ed6cd49312f9269ec07eb1c9a5ccf8f3a86adf493cdb1d
+Description:  IGMPproxy is a simple dynamic Multicast Routing Daemon using
+ only IGMP signalling (Internet Group Management Protocol).
+
+Package: libcurl4
+Version: 8.4.0-2
+Depends: libc, libopenssl3, libnghttp2-14, ca-bundle
+Provides: libcurl
+Source: feeds/packages/net/curl
+SourceName: libcurl
+License: MIT
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1698331027
+ABIVersion: 4
+CPE-ID: cpe:/a:haxx:libcurl
+Maintainer: Stan Grishin <stangri@melmac.ca>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 192664
+Filename: libcurl4_8.4.0-2_arm_cortex-a15_neon-vfpv4.ipk
+Size: 192528
+SHA256sum: ac1c140b508f1554632ce9c1f5d1ec332979e61e8872d377aba93558755b29c9
+Description:  A client-side URL transfer library
+
+Package: liblzo2
+Version: 2.10-4
+Depends: libc
+Provides: liblzo
+Source: feeds/packages/libs/lzo
+SourceName: liblzo
+License: GPL-2.0-or-later
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1635477716
+ABIVersion: 2
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 35814
+Filename: liblzo2_2.10-4_arm_cortex-a15_neon-vfpv4.ipk
+Size: 36662
+SHA256sum: 5b8680da8106102a47705eeb0cc567923f364c8493c2cbaa7fd07b02879e9bb7
+Description:  LZO is a data compression library which is suitable for data de-/compression
+ in real-time. This means it favours speed over compression ratio.
+
+Package: libnghttp2-14
+Version: 1.57.0-1
+Depends: libc
+Provides: libnghttp2
+Source: feeds/packages/libs/nghttp2
+SourceName: libnghttp2
+License: MIT
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1697461136
+ABIVersion: -14
+Maintainer: Hans Dedecker <dedeckeh@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 61648
+Filename: libnghttp2-14_1.57.0-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 61139
+SHA256sum: 94fc16853bdbcb0d58d78223db2288b210f2a087f08b6cec618dc1c4eb0c14b2
+Description:  C library implementing the framing layer of the HTTP/2 protocol. It can be used to build a HTTP/2-capable HTTP client or server
+
+Package: libpcre
+Version: 8.45-5
+Depends: libc
+Source: feeds/packages/libs/pcre
+SourceName: libpcre
+License: BSD-3-Clause
+LicenseFiles: LICENCE
+Section: libs
+SourceDateEpoch: 1684398059
+CPE-ID: cpe:/a:pcre:pcre
+Maintainer: Thomas Heil <heil@terminal-consulting.de>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 137962
+Filename: libpcre_8.45-5_arm_cortex-a15_neon-vfpv4.ipk
+Size: 138714
+SHA256sum: 8abc3c3f19ca166371a40c06f5b6c1ef8995cfeb19990bdce6f4a625bc4a8532
+Description:  A Perl Compatible Regular Expression library
+
+Package: librrd1
+Version: 1.0.50-5
+Depends: libc, zlib
+Source: feeds/packages/utils/rrdtool1
+SourceName: librrd1
+Section: libs
+SourceDateEpoch: 1664998557
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 131422
+Filename: librrd1_1.0.50-5_arm_cortex-a15_neon-vfpv4.ipk
+Size: 131851
+SHA256sum: 14232810b5a5ad10d6d4e924123b015fc4f7beaad5441c90fbd42d194df855d5
+Description:  RRD is the Acronym for Round Robin Database. RRD is a system to store and
+ display time-series data (i.e. network bandwidth, machine-room temperature,
+ server load average). It stores the data in a very compact way that will
+ not expand over time, and it presents useful graphs by processing the data
+ to enforce a certain data density. It can be used either via simple wrapper
+ scripts (from shell or Perl) or via frontends that poll network devices and
+ put friendly user interface on it.
+ 
+ This is version 1.0.x with cgilib-0.4, gd1.3 and libpng-1.0.9 linked into
+ librrd.so. The library is much smaller compared to the 1.2.x version with
+ separate dynamic linked libraries.
+ This package contains a shared library, used by other programs.
+
+Package: nginx-mod-luci-ssl
+Version: 1.25.0-4
+Depends: libc, nginx-mod-luci
+Source: feeds/packages/net/nginx
+SourceName: nginx-mod-luci-ssl
+License: 2-clause BSD-like license
+Section: opt
+SourceDateEpoch: 1693534656
+CPE-ID: cpe:/a:nginx:nginx
+Maintainer: Thomas Heil <heil@terminal-consulting.de> Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: all
+Installed-Size: 129
+Filename: nginx-mod-luci-ssl_1.25.0-4_all.ipk
+Size: 924
+SHA256sum: 774963454d46d5bf17585ac849133b95ca9044d96a4066d8817b2bfcc1878e7a
+Description:  Dummy package for transition when upgrading.
+
+Package: nginx-mod-luci
+Version: 1.25.0-4
+Depends: libc, uwsgi, uwsgi-luci-support, nginx, nginx-mod-ubus
+Source: feeds/packages/net/nginx
+SourceName: nginx-mod-luci
+License: 2-clause BSD-like license
+Section: net
+SourceDateEpoch: 1693534656
+CPE-ID: cpe:/a:nginx:nginx
+Maintainer: Thomas Heil <heil@terminal-consulting.de> Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 775
+Filename: nginx-mod-luci_1.25.0-4_arm_cortex-a15_neon-vfpv4.ipk
+Size: 1640
+SHA256sum: b5e73010560f65fc006a92efda14c8fc038e6469d9679a8e6b5332421a59992b
+Description:  Support file for LuCI in nginx. Include custom nginx configuration, autostart script for uwsgi.
+
+Package: nginx-mod-ubus
+Version: 1.25.0-4
+Depends: libc, nginx-ssl, libubus20230605, libjson-c5, libblobmsg-json20230523
+Source: feeds/packages/net/nginx
+SourceName: nginx-mod-ubus
+License: 2-clause BSD-like license
+Section: net
+SourceDateEpoch: 1693534656
+CPE-ID: cpe:/a:nginx:nginx
+Maintainer: Thomas Heil <heil@terminal-consulting.de> Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 7378
+Filename: nginx-mod-ubus_1.25.0-4_arm_cortex-a15_neon-vfpv4.ipk
+Size: 8197
+SHA256sum: 7a27017fb03277b7bdb11799632c8e04497f918ca04a7a2104cf5828cbe2aeae
+Description:  Enable UBUS api support directly from the server.
+
+Package: nginx-ssl-util
+Version: 1.6-18
+Depends: nginx-util (>=1.4-2), libc, libstdcpp6, libuci20130104, libubus20230605, libubox20230523, libpthread, libopenssl3, nginx-util, libpcre
+Conflicts: nginx-ssl-util-nopcre
+Source: feeds/packages/net/nginx-util
+SourceName: nginx-ssl-util
+Section: net
+SourceDateEpoch: 1686454168
+Maintainer: Peter Stadler <peter.stadler@student.uibk.ac.at>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 56573
+Filename: nginx-ssl-util_1.6-18_arm_cortex-a15_neon-vfpv4.ipk
+Size: 57699
+SHA256sum: 4294595eb5ffa85daf1a09d7bb280b2b859088552af87e82fef2a2d8f988092b
+Description:  Utility that builds dynamically LAN listen directives for Nginx.
+ Furthermore, it manages SSL directives for its server parts and can create
+ corresponding (self-signed) certificates. It uses the PCRE library for performance.
+
+Package: nginx-ssl
+Version: 1.25.0-4
+Depends: nginx-ssl-util (>=1.5-1) (<2), libc, libopenssl3, libpthread, libpcre, nginx-ssl-util, zlib
+Conflicts: nginx-full
+Source: feeds/packages/net/nginx
+SourceName: nginx-ssl
+License: 2-clause BSD-like license
+Section: net
+SourceDateEpoch: 1693534656
+CPE-ID: cpe:/a:nginx:nginx
+Maintainer: Thomas Heil <heil@terminal-consulting.de> Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 371188
+Filename: nginx-ssl_1.25.0-4_arm_cortex-a15_neon-vfpv4.ipk
+Size: 370154
+SHA256sum: 24c6637d6f27a067f4c9e465233c277ac578be016868320dcccfcac79a9acf96
+Description:  nginx is an HTTP and reverse proxy server, as well as a mail proxy server, written by Igor Sysoev. This variant is compiled with SSL support enabled. To enable additional module select them in the nginx default configuration menu.
+
+Package: nginx-util
+Version: 1.6-18
+Depends: libc, libstdcpp6, libubus20230605, libubox20230523, libpthread
+Source: feeds/packages/net/nginx-util
+SourceName: nginx-util
+Section: opt
+SourceDateEpoch: 1686454168
+Maintainer: Peter Stadler <peter.stadler@student.uibk.ac.at>
+Architecture: all
+Installed-Size: 131
+Filename: nginx-util_1.6-18_all.ipk
+Size: 886
+SHA256sum: 02fe6e50599a6814dd72b75783b8a2e13a7f69dd1411de6da7dd26663a45440e
+Description:  Dummy package for removing nginx-util when upgrading.
+
+Package: nginx
+Version: 1.25.0-4
+Depends: libc, nginx-ssl
+Source: feeds/packages/net/nginx
+SourceName: nginx
+License: 2-clause BSD-like license
+Section: opt
+SourceDateEpoch: 1693534656
+CPE-ID: cpe:/a:nginx:nginx
+Maintainer: Thomas Heil <heil@terminal-consulting.de> Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: all
+Installed-Size: 224
+Filename: nginx_1.25.0-4_all.ipk
+Size: 1041
+SHA256sum: e77a768a963104da048ef363bb6e5b35ef97ecc3cf2eefe15f4ecc9652dae2cb
+Description:  nginx is an HTTP and reverse proxy server, as well as a mail proxy server, written by Igor Sysoev.
+
+Package: openvpn-openssl
+Version: 2.5.8-3
+Depends: libc, kmod-tun, liblzo2, libopenssl3
+Provides: openvpn, openvpn-crypto
+Source: feeds/packages/net/openvpn
+SourceName: openvpn-openssl
+License: GPL-2.0
+Section: net
+SourceDateEpoch: 1686382076
+CPE-ID: cpe:/a:openvpn:openvpn
+Maintainer: Magnus Kroken <mkroken@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 207633
+Filename: openvpn-openssl_2.5.8-3_arm_cortex-a15_neon-vfpv4.ipk
+Size: 208279
+SHA256sum: b4e1a374dd81d12e0ae1d83893d54005c1fe6675fbc39f0505d61600318b70b5
+Description:  Open source VPN solution using OpenSSL
+
+Package: rrdtool1
+Version: 1.0.50-5
+Depends: libc, librrd1
+Source: feeds/packages/utils/rrdtool1
+SourceName: rrdtool1
+Section: utils
+SourceDateEpoch: 1664998557
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 10509
+Filename: rrdtool1_1.0.50-5_arm_cortex-a15_neon-vfpv4.ipk
+Size: 11617
+SHA256sum: 2e3e97b6afa3373bf73837dee2307560534f3e90efb3a603ac032a903f5aa93a
+Description:  RRD is the Acronym for Round Robin Database. RRD is a system to store and
+ display time-series data (i.e. network bandwidth, machine-room temperature,
+ server load average). It stores the data in a very compact way that will
+ not expand over time, and it presents useful graphs by processing the data
+ to enforce a certain data density. It can be used either via simple wrapper
+ scripts (from shell or Perl) or via frontends that poll network devices and
+ put friendly user interface on it.
+ 
+ This is version 1.0.x with cgilib-0.4, gd1.3 and libpng-1.0.9 linked into
+ librrd.so. The library is much smaller compared to the 1.2.x version with
+ separate dynamic linked libraries.
+ This package contains command line tools used to manage RRDs.
+
+Package: uwsgi-cgi-plugin
+Version: 2.0.21-1
+Depends: libc, uwsgi
+Source: feeds/packages/net/uwsgi
+SourceName: uwsgi-cgi-plugin
+License: GPL-2.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1685091293
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 9114
+Filename: uwsgi-cgi-plugin_2.0.21-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 9903
+SHA256sum: 878a6c28073f470ef9c45b54a0749be45aff8c5c4525d7b576e6c3caa009c5a8
+Description:  The CGI plugin for the uWSGI project.
+
+Package: uwsgi-luci-support
+Version: 2.0.21-1
+Depends: libc, uwsgi, uwsgi-syslog-plugin, uwsgi-cgi-plugin
+Source: feeds/packages/net/uwsgi
+SourceName: uwsgi-luci-support
+License: GPL-2.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1685091293
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 1261
+Filename: uwsgi-luci-support_2.0.21-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 2058
+SHA256sum: 708407af79631d9d6e3710008c2ec5c3c93b72ef13e5b3ea10800b13ea91db59
+Description:  Support files for LuCI on Nginx
+
+Package: uwsgi-syslog-plugin
+Version: 2.0.21-1
+Depends: libc, uwsgi
+Source: feeds/packages/net/uwsgi
+SourceName: uwsgi-syslog-plugin
+License: GPL-2.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1685091293
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 1587
+Filename: uwsgi-syslog-plugin_2.0.21-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 2381
+SHA256sum: 862728749439bc972a982bf0dafe6579a5e20ee4d0a93c5dc906f82c54598709
+Description:  The Syslog plugin for the uWSGI project.
+
+Package: uwsgi
+Version: 2.0.21-1
+Depends: libc, libpcre, libcap, libuuid1
+Source: feeds/packages/net/uwsgi
+SourceName: uwsgi
+License: GPL-2.0-or-later
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1685091293
+Maintainer: Ansuel Smith <ansuelsmth@gmail.com>
+Architecture: arm_cortex-a15_neon-vfpv4
+Installed-Size: 300492
+Filename: uwsgi_2.0.21-1_arm_cortex-a15_neon-vfpv4.ipk
+Size: 300981
+SHA256sum: e1cabb057baa0409313f2de31792b3e7f3f4c09d1e39545a8de12e6a9f59618f
+Description:  The uWSGI project (to be used together with nginx or nginx-ssl).
+
