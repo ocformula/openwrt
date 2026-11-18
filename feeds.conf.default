@@ -1,4 +1,8 @@
-src-git packages https://git.openwrt.org/feed/packages.git^e59d9ef823bcb581e3939789b4eaeaf900b79759
-src-git luci https://git.openwrt.org/project/luci.git^7ce34fe1a53db10bb9dd0223467f5bb71a29a659
-src-git routing https://git.openwrt.org/feed/routing.git^4a06b031dc16628c9b8351ac297ecdbc92695dc2
-src-git telephony https://git.openwrt.org/feed/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
+src-git packages https://github.com/openwrt/packages.git^e59d9ef823bcb581e3939789b4eaeaf900b79759
+src-git luci https://github.com/openwrt/luci.git^7ce34fe1a53db10bb9dd0223467f5bb71a29a659
+src-git routing https://github.com/openwrt/routing.git^4a06b031dc16628c9b8351ac297ecdbc92695dc2
+src-git telephony https://github.com/openwrt/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
+src-git nss https://github.com/ocformula/nss-packages.git^465798a051e28e34e83d89f887de9fa79615e704
+src-git omcproxy_nss https://github.com/ocformula/omcproxy-nss.git^6686361a0504098dd450e1ac6a8aae8811dd14ef
+src-git sqm_scripts_nss https://github.com/rickkdotnet/sqm-scripts-nss.git^bf905d85137817b49f619a3b2544c2e6f70dd22d
+src-git zapret_openwrt https://github.com/ocformula/zapret-openwrt.git^aea589e4e104828f9b829c9509795d0582247dba
